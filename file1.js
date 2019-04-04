@@ -1,4 +1,9 @@
-let a=9;
-let b=a*2;
-console.log(b);
-
+var user ={
+    first_name:"CSS",
+    last_name:"HTML",
+    age=4,/*from w w w. java2 s .c o m*/
+    website:"java2s.com"
+};
+for(key in user){
+    console.log(key);
+}
