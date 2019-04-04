@@ -1,3 +1,3 @@
-let a=4;
+let a=2;
 let b=a*2;
 console.log(b);
